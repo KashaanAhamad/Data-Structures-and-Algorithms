@@ -1,0 +1,5 @@
+## files inside /.vscode directory
+/.vscode
+
+## file with extension .exe
+*.exe
